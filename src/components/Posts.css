@@ -1,0 +1,28 @@
+.posts-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.post-card {
+  background-color: #fff;
+  border-left: 5px solid #007bff;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  border-radius: 6px;
+}
+
+.post-card h3 {
+  margin-top: 0;
+}
+
+.post-card p {
+  margin: 10px 0;
+}
+
+.post-author {
+  font-style: italic;
+  color: #555;
+  text-align: right;
+}
